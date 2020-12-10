@@ -1,6 +1,5 @@
-# ml_gas_stations_forecast
-ml_gas_stations_forecast
-
+# fuel_price prediction
+Fuel Price prediction by stores
 
 Stores
 
