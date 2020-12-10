@@ -1,6 +1,11 @@
-# fuel_price prediction
-Fuel Price prediction by stores
+# Fuel price prediction
 
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Solvve/ml_job_classifier/blob/master/LICENSE.txt)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
+[![scikit-learn 0.23.2](https://img.shields.io/badge/scikit_learn-0.23.2-blue)](https://scikit-learn.org/stable/)
+[![Solvve](https://img.shields.io/badge/made%20in-solvve-blue)](https://solvve.com/)
+
+## Description
 Stores
 
 Anonymized information about the 45 stores, indicating the type and size of store Features
@@ -26,7 +31,7 @@ Date - the week
 Weekly_Sales -  sales for the given department in the given store
 IsHoliday - whether the week is a special holiday week
 
-Tasks:
+## Tasks:
 
     predict Fuel_Price for 1 month using all stores
     predict Fuel_Price for 1 month using all data for new (unknown) store
